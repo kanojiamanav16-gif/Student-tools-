@@ -1,0 +1,6 @@
+{
+  "name": "JEE NEET Study Companion",
+  "description": "A high-focus task tracker, test/homework reminder list, study timer, preparation meter, and AI doubt solver specifically tailored for JEE and NEET aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
